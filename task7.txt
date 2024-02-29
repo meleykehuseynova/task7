@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor=#09A198>
+
+    <img with="250" height="250" src="naxcivan.jpg" alt=""  >
+    <ul>
+        <li>Naxcivan Muxtar Respublikasi</li>
+        <li>Haqqinda</li>
+        <ul style="list-style-type: circle;">
+            <li>Ərazi: 191.7</li>
+            <li>Əhali: 95.6 min </li>
+            <li>Nəqliyyat kodu: 75</li>
+            <li>İqlimi: Subtropik</li>
+            <li>Telefon kodlari:</li>
+            <ul style="list-style-type: ;">
+                <li>+994 36</li>
+                <li>+994 60</li>
+            </ul>
+            
+    
+        </ul>
+    </ul>
+    <video with="250" height="250" src="naxcivan.mp4" controls></video>
+    
+    
+</body>
+</html>
